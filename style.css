@@ -1,4 +1,9 @@
 body {
     background-color:  rgb(120, 217, 246);
     background-image: url("1600w-_Tcjok-d9b4.webp");
+    background-color:  rgb(219, 73, 76);
+}
+P {
+    color: blue;
+    font-weight: bold;
 }
