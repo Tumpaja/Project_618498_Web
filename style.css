@@ -25,3 +25,8 @@ a {
     width: 720px;
     height: 420px;
 }
+
+.center {
+    margin: auto;
+    width: 55%;
+}
