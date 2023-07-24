@@ -5,10 +5,9 @@ body {
 }
 p {
     color: rgb(0, 0, 0);
-    font-weight: bold;
-}
+  }
 
-.content1 {
-    border: 5px solid black;
-    width:70%
+a {
+    color: rgb(243, 113, 7);
+    font-weight: bold;
 }
