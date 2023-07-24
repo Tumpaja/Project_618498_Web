@@ -15,3 +15,13 @@ a {
 .abox {
     display: block;
 }
+
+.pbox {
+    width: 720px;
+    height: 200px;
+}
+
+.ptbox {
+    width: 720px;
+    height: 420px;
+}
