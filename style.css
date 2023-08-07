@@ -30,3 +30,22 @@ a {
     margin: auto;
     width: 46%;
 }
+
+h2.box {
+    display: block;
+}
+
+img.box {
+    width: 720px;
+    height: 420px;
+}
+
+p.box {
+    width: 720px;
+    height: 200px;
+}
+
+a.box {
+    display: block;
+}
+
