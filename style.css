@@ -2,21 +2,21 @@ body {
     background-color:  rgb(120, 217, 246);
     background-image: url("lovepik-simple-black-gold-background-image_401950687.jpg");
     font-family: "Trirong", serif;
+}
+border1 {
     margin:0 auto;
     width:800px;
 }
-h1,h2 {
+
+h1,h2,p {
     color: #ffffff;
   }
-p {
-    color: #ffffff;
-  }
-  
 
 a {
     color: rgb(243, 113, 7);
     font-weight: bold;
 }
+
 
 .abox {
     display: block;
@@ -55,3 +55,13 @@ a.box {
     display: block;
 }
 
+.tbox {
+    display: block;
+}
+
+.Trending {
+    background-color: white;
+    border-radius:20px;
+    width: 400px;
+    height: 200px;
+}
