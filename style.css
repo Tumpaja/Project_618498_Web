@@ -1,13 +1,17 @@
 body {
     background-color:  rgb(120, 217, 246);
-    background-image: url("1600w-_Tcjok-d9b4.webp");
+    background-image: url("lovepik-simple-black-gold-background-image_401950687.jpg");
     font-family: "Trirong", serif;
     margin:0 auto;
     width:800px;
 }
-p {
-    color: rgb(0, 0, 0);
+h1,h2 {
+    color: #ffffff;
   }
+p {
+    color: #ffffff;
+  }
+  
 
 a {
     color: rgb(243, 113, 7);
